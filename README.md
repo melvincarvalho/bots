@@ -1,0 +1,2 @@
+# bots
+solid bots
